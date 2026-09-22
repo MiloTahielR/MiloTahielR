@@ -22,6 +22,7 @@ Analista Programador Universitario y estudiante avanzado de Licenciatura en Sist
 ## Habilidades Técnicas
 
 **Lenguajes y Frameworks**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -30,6 +31,7 @@ Analista Programador Universitario y estudiante avanzado de Licenciatura en Sist
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Bases de Datos**
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 > Modelado estructural, consultas y procedimientos almacenados.
@@ -44,9 +46,6 @@ Analista Programador Universitario y estudiante avanzado de Licenciatura en Sist
 
 **Inteligencia Artificial**
 *   Claude, Gemini, Copilot, Antigravity, NotebookLM.
-**Idiomas**
-*Ingles B2.
-*Español nativo.
 ---
 
 ## 🌍 Idiomas
