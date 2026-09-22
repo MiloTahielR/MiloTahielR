@@ -9,13 +9,16 @@ Analista Programador Universitario y estudiante avanzado de Licenciatura en Sist
 ##  Proyectos Realizados
 
 *   **Provit - Web para Gestión y Análisis de Proveedores**
-      **Tecnologías:** Python, Django REST Framework, SQL Server, Git, Github, Drawio, Jira.
+     * **Tecnologías:** Python, Django REST Framework, SQL Server, Git, Github, Drawio, Jira.
+       
 *   **E-commerce - Joyería y Diseños de Autor**
-      **Tecnologías:** HTML5, CSS3, PHP, phpMyAdmin, MySQL, Apache, Git, Github, Jira.
+     * **Tecnologías:** HTML5, CSS3, PHP, phpMyAdmin, MySQL, Apache, Git, Github, Jira.
+       
 *   **Analista de Datos - Proyecto TecnoStore**
-      **Tecnologías:** Excel, SQL, PowerBI, PowerQuery.
+    *  **Tecnologías:** Excel, SQL, PowerBI, PowerQuery.
+      
 *   **Aplicación de escritorio - Gestión y Administración de Sucursales comerciales**
-      **Tecnologías:** C#, .NET, Entity Framework, Visual Studio Management, SQL Server.
+     * **Tecnologías:** C#, .NET, Entity Framework, Visual Studio Management, SQL Server.
 
 ---
 
