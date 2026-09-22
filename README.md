@@ -6,7 +6,7 @@ Analista Programador Universitario y estudiante avanzado de Licenciatura en Sist
 
 ---
 
-## 💻 Proyectos Realizados
+##  Proyectos Realizados
 
 *   **Provit - Web para Gestión y Análisis de Proveedores**
     *   **Tecnologías:** Python, Django REST Framework, SQL Server, Git, Github, Drawio, Jira.
@@ -19,7 +19,7 @@ Analista Programador Universitario y estudiante avanzado de Licenciatura en Sist
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## Habilidades Técnicas
 
 **Lenguajes y Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
